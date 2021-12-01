@@ -32,7 +32,7 @@ This repo demonstrates the performance for creating and reading records from Emp
 
 
 
-### Simplicity
+### Features
 1. QuickDBS is very minimalistic compared to Dapper. Check out the codes for both the libraries.
 2. QuickDBS also has the capability to create database on the fly, create tables from given models which isn't possible with Dapper.
 3. QuickDBS uses model to table mapping CRUD operations, which Dapper needs sql or store procedures provided to complete the same task.
